@@ -1,5 +1,4 @@
 # DigitRecognizer-Kaggle
-======================
 
 Using Scikit-Learn for Digit Recognizer Kaggle Competition.
 
@@ -15,9 +14,13 @@ Digit Recognition with SVM (poly, degree = 2)
 #### Accuracy on Kaggle: 0.97871
 
 For complete dataset:
+
 Reading (Preprocessing) time ~ 25.5 s
+
 Training running time ~ 146.5 s
+
 Predicting running time ~ 161.5 s
+
 (Processor: 1.7 GHz Intel Core i7, 
 Memory: 8 GB)
 
