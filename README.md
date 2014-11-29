@@ -1,4 +1,4 @@
-DigitRecognizer-Kaggle
+# DigitRecognizer-Kaggle
 ======================
 
 Using Scikit-Learn for Digit Recognizer Kaggle Competition.
@@ -8,11 +8,11 @@ Files train.csv and test.csv must be in working directory.
 
 
 
-SVM_poly_deg2:
+## SVM_poly_deg2:
 
 Digit Recognition with SVM (poly, degree = 2)
 
-Accuracy on Kaggle: 0.97871
+#### Accuracy on Kaggle: 0.97871
 
 For complete dataset:
 Reading (Preprocessing) time ~ 25.5 s
