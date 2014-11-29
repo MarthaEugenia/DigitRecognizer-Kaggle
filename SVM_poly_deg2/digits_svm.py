@@ -12,6 +12,8 @@ from sklearn import preprocessing
 """
 Digit Recognition with SVM (poly, degree = 2)
 
+Accuracy on Kaggle: 0.97871
+
 For complete dataset:
 Reading (Preprocessing) time ~ 25.5 s
 Training running time ~ 146.5 s
